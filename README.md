@@ -1,3 +1,7 @@
+## Lien de démo
+
+https://memorygame.jordyvuong.fr/
+
 # Jeu de Mémoire (Memory Game)
 
 Ce projet est un jeu de mémoire interactif construit avec **Alpine.js** et **Tailwind CSS**. Le but du jeu est de retourner les cartes par paires jusqu'à ce que toutes les paires soient trouvées.
